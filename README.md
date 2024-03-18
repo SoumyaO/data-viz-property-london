@@ -1,6 +1,6 @@
 # Data Visualisation: Property Investment in London
 Exploratory data analysis for property investment in London.  
-[Report](https://github.com/SoumyaO/data-viz-property-london/blob/main/OgotiSoumyaSMM635.pdf)
+[Report](https://github.com/SoumyaO/data-viz-property-london/blob/main/Report.pdf)
 
 ## Overview
 This project aims to identify profitable boroughs in London to buy properties in and rent them out on Airbnb. Three sources of information were collated; Airbnb listings from Sept 2021-22, average historical housing prices in London (1996-2022) and annual council tax data by borough.
