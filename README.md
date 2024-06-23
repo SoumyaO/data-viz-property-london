@@ -11,7 +11,7 @@ Five different visualisations were generated in Tableau and a dashboard was crea
 2. Heatmaps showing the popularity of each room type by occupancy and by the number of reviews for each borough.  
 3. Time series plots showing the trends of average house prices over time for each borough.  
 4. A bar chart with annual income and expenses for each borough, overlayed on top of each other along with a radial chart indicating the return on investment.
-5. A lollipop chart showing the average profit earned by selliong the house after one year, the lengths of the sticks showing the amount of profit earned, while the tips are coloured by the eastimated house price after 1 year.
+5. A lollipop chart showing the average profit earned by selling the house after one year, the lengths of the sticks showing the amount of profit earned, while the tips are coloured by the estimated house price after 1 year.
 
 ### Key Insights
 The visualisations showed the best boroughs to invest in property. Key insights were the following.
